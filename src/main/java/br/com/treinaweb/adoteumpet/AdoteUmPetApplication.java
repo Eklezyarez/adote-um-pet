@@ -8,5 +8,4 @@ public class AdoteUmPetApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AdoteUmPetApplication.class, args);
 	}
-
 }
