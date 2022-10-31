@@ -8,5 +8,4 @@ class AdoteUmPetApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
