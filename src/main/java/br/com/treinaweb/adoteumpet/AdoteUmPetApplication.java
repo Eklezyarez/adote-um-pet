@@ -1,4 +1,4 @@
-package br.com.treinaweb.adoteum
+package br.com.treinaweb.adoteu
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
