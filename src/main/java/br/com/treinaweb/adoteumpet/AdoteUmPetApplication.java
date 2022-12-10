@@ -1,4 +1,4 @@
-package br.com.treinaweb.adoteumpet;
+package br.com.treinaweb.adoteumpet
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
